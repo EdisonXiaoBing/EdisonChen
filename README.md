@@ -1,2 +1,2 @@
-# EdisonChen
-A student like to code and develop something
+Edison Chen from GHCIS
+Learning computer science💻
